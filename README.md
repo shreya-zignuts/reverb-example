@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBATpdx7Rv4bgezUS05IGjCFq10kxhmp5k1_9No1RD&s" width="50%" alt="laravel reverb logo">
+    <img src="https://reverb.laravel.com/socialcard.png" width="50%" alt="laravel reverb logo">
 </p>
 
 <p align="center">
