@@ -1,6 +1,9 @@
 <p align="center">
     <img src="https://reverb.laravel.com/socialcard.png" width="50%" alt="laravel reverb logo">
 </p>
+<p align="center">
+    <img src="https://logowik.com/content/uploads/images/laravel-livewire4180.logowik.com.webp" width="50%" alt="laravel livewire logo">
+</p>
 
 <p align="center">
     <a href="https://github.com/laravel/reverb/actions/workflows/tests.yml"><img src="https://github.com/laravel/reverb/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
